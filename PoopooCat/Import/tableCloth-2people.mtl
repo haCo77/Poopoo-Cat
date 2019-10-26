@@ -1,0 +1,1029 @@
+newmtl door:InteriorDoor:InteriorDoor1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.50
+Ks 0.00 0.00 0.00
+Ns 10.00
+newmtl door:aiStandardSurface1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 0.00
+newmtl door1:InteriorDoor:InteriorDoor1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.50
+Ks 0.00 0.00 0.00
+Ns 10.00
+newmtl door1:aiStandardSurface1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 0.00
+newmtl door2:InteriorDoor:InteriorDoor1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.50
+Ks 0.00 0.00 0.00
+Ns 10.00
+newmtl door2:aiStandardSurface1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 0.00
+newmtl door3:InteriorDoor:InteriorDoor1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.50
+Ks 0.00 0.00 0.00
+Ns 10.00
+newmtl door3:aiStandardSurface1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 0.00
+newmtl door4:InteriorDoor:InteriorDoor1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.50
+Ks 0.00 0.00 0.00
+Ns 10.00
+newmtl door4:aiStandardSurface1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 0.00
+newmtl door5:InteriorDoor:InteriorDoor1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.50
+Ks 0.00 0.00 0.00
+Ns 10.00
+newmtl door5:aiStandardSurface1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 0.00
+newmtl door6:InteriorDoor:InteriorDoor1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.50
+Ks 0.00 0.00 0.00
+Ns 10.00
+newmtl door6:aiStandardSurface1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 0.00
+newmtl door7:InteriorDoor:InteriorDoor1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.50
+Ks 0.00 0.00 0.00
+Ns 10.00
+newmtl door7:aiStandardSurface1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 0.00
+newmtl door8:InteriorDoor:InteriorDoor1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.50
+Ks 0.00 0.00 0.00
+Ns 10.00
+newmtl door8:aiStandardSurface1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 0.00
+newmtl door9:InteriorDoor:InteriorDoor1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.50
+Ks 0.00 0.00 0.00
+Ns 10.00
+newmtl door9:aiStandardSurface1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 0.00
+newmtl door10:InteriorDoor:InteriorDoor1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.50
+Ks 0.00 0.00 0.00
+Ns 10.00
+newmtl door10:aiStandardSurface1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 0.00
+newmtl door11:InteriorDoor:InteriorDoor1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.50
+Ks 0.00 0.00 0.00
+Ns 10.00
+newmtl door11:aiStandardSurface1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 0.00
+newmtl door12:InteriorDoor:InteriorDoor1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.50
+Ks 0.00 0.00 0.00
+Ns 10.00
+newmtl door12:aiStandardSurface1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 0.00
+newmtl door13:_60x80_Double_French_Mullion_Door_White_v1:Silver_mat
+illum 4
+Kd 0.70 0.70 0.70
+Ka 0.70 0.70 0.70
+Tf 1.00 1.00 1.00
+Ni 1.50
+Ks 0.57 0.57 0.57
+Ns 60.00
+newmtl door13:_60x80_Double_French_Mullion_Door_White_v1:White_Mat__wood_
+illum 4
+Kd 0.97 0.97 0.97
+Ka 0.97 0.97 0.97
+Tf 1.00 1.00 1.00
+Ni 1.50
+Ks 0.41 0.41 0.41
+Ns 26.00
+newmtl door13:_60x80_Double_French_Mullion_Door_White_v1:Window_Mat
+illum 4
+Kd 0.86 0.86 0.86
+Ka 0.86 0.86 0.86
+Tf 0.20 0.20 0.20
+Ni 1.50
+Ks 0.00 0.00 0.00
+Ns 10.00
+newmtl door14:_60x80_Double_French_Mullion_Door_White_v1:Silver_mat
+illum 4
+Kd 0.70 0.70 0.70
+Ka 0.70 0.70 0.70
+Tf 1.00 1.00 1.00
+Ni 1.50
+Ks 0.57 0.57 0.57
+Ns 60.00
+newmtl door14:_60x80_Double_French_Mullion_Door_White_v1:White_Mat__wood_
+illum 4
+Kd 0.97 0.97 0.97
+Ka 0.97 0.97 0.97
+Tf 1.00 1.00 1.00
+Ni 1.50
+Ks 0.41 0.41 0.41
+Ns 26.00
+newmtl door14:_60x80_Double_French_Mullion_Door_White_v1:Window_Mat
+illum 4
+Kd 0.86 0.86 0.86
+Ka 0.86 0.86 0.86
+Tf 0.20 0.20 0.20
+Ni 1.50
+Ks 0.00 0.00 0.00
+Ns 10.00
+newmtl door15:_60x80_Double_French_Mullion_Door_White_v1:Silver_mat
+illum 4
+Kd 0.70 0.70 0.70
+Ka 0.70 0.70 0.70
+Tf 1.00 1.00 1.00
+Ni 1.50
+Ks 0.57 0.57 0.57
+Ns 60.00
+newmtl door15:_60x80_Double_French_Mullion_Door_White_v1:White_Mat__wood_
+illum 4
+Kd 0.97 0.97 0.97
+Ka 0.97 0.97 0.97
+Tf 1.00 1.00 1.00
+Ni 1.50
+Ks 0.41 0.41 0.41
+Ns 26.00
+newmtl door15:_60x80_Double_French_Mullion_Door_White_v1:Window_Mat
+illum 4
+Kd 0.86 0.86 0.86
+Ka 0.86 0.86 0.86
+Tf 0.20 0.20 0.20
+Ni 1.50
+Ks 0.00 0.00 0.00
+Ns 10.00
+newmtl initialShadingGroup
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl phong1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd tableCloth-texture.jpg
+bump  -bm 0.15 tableCloth-bump.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl receptionTable:DeskSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.95 0.95 0.95
+Ns 20.63
+newmtl receptionTable:DeskSG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 2.50 2.50 2.50
+Ns 254.00
+newmtl receptionTable:DeskSG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 0.10 0.10 0.10
+Ni 1.00
+Ks 2.50 2.50 2.50
+Ns 254.00
+newmtl sink:lambert2SG
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl sink1:lambert2SG
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl sink2:lambert2SG
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl sink3:lambert2SG
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl stair:Box003SG
+illum 4
+Kd 0.78 0.78 0.78
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.82 0.82 0.82
+Ns 179.02
+newmtl stair:Rectangle001SG
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.59 0.59 0.59
+Ns 292.07
+newmtl stair:columnsSG
+illum 4
+Kd 0.79 0.79 0.79
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.46 0.46 0.46
+Ns 126.00
+newmtl stair1:Box003SG
+illum 4
+Kd 0.78 0.78 0.78
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.82 0.82 0.82
+Ns 179.02
+newmtl stair1:Rectangle001SG
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.59 0.59 0.59
+Ns 292.07
+newmtl stair1:columnsSG
+illum 4
+Kd 0.79 0.79 0.79
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.46 0.46 0.46
+Ns 126.00
+newmtl table:phong1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd chairBody-Seamless-Texture.jpg
+bump  -bm 0.2 chairBody-Seamless-bump.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl table:phong2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd chairLeg-seamless-texture.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl table:phong3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd tableCloth-texture.jpg
+bump  -bm 0.09 tableCloth-bump.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl table1:phong1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd chairBody-Seamless-Texture.jpg
+bump  -bm 0.2 chairBody-Seamless-bump.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl table1:phong2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd chairLeg-seamless-texture.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl table1:phong3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd tableCloth-texture.jpg
+bump  -bm 0.09 tableCloth-bump.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl table2:phong1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd chairBody-Seamless-Texture.jpg
+bump  -bm 0.2 chairBody-Seamless-bump.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl table2:phong2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd chairLeg-seamless-texture.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl table2:phong3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd tableCloth-texture.jpg
+bump  -bm 0.09 tableCloth-bump.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl table3:phong1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd chairBody-Seamless-Texture.jpg
+bump  -bm 0.2 chairBody-Seamless-bump.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl table3:phong2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd chairLeg-seamless-texture.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl table3:phong3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd tableCloth-texture.jpg
+bump  -bm 0.09 tableCloth-bump.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl table4:phong1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd chairBody-Seamless-Texture.jpg
+bump  -bm 0.2 chairBody-Seamless-bump.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl table4:phong2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd chairLeg-seamless-texture.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl table5:phong1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd chairBody-Seamless-Texture.jpg
+bump  -bm 0.2 chairBody-Seamless-bump.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl table5:phong2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd chairLeg-seamless-texture.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl table5:phong3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd tableCloth-texture.jpg
+bump  -bm 0.09 tableCloth-bump.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl table6:phong1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd chairBody-Seamless-Texture.jpg
+bump  -bm 0.2 chairBody-Seamless-bump.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl table6:phong2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd chairLeg-seamless-texture.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl table6:phong3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd tableCloth-texture.jpg
+bump  -bm 0.09 tableCloth-bump.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl table9:phong1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd chairBody-Seamless-Texture.jpg
+bump  -bm 0.2 chairBody-Seamless-bump.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl table9:phong2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd chairLeg-seamless-texture.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl table9:phong3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd tableCloth-texture.jpg
+bump  -bm 0.09 tableCloth-bump.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl table10:phong1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd chairBody-Seamless-Texture.jpg
+bump  -bm 0.2 chairBody-Seamless-bump.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl table10:phong2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd chairLeg-seamless-texture.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl table10:phong3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd tableCloth-texture.jpg
+bump  -bm 0.09 tableCloth-bump.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl table11:phong1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd chairBody-Seamless-Texture.jpg
+bump  -bm 0.2 chairBody-Seamless-bump.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl table11:phong2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd chairLeg-seamless-texture.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl table11:phong3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd tableCloth-texture.jpg
+bump  -bm 0.09 tableCloth-bump.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl table12:phong1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd chairBody-Seamless-Texture.jpg
+bump  -bm 0.2 chairBody-Seamless-bump.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl table12:phong2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd chairLeg-seamless-texture.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl table12:phong3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd tableCloth-texture.jpg
+bump  -bm 0.09 tableCloth-bump.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl table15:chair:Chair_01SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl table16:chair:Chair_01SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl table_bistro:pasted__usualFBXASC032benchFBXASC032BSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.59 0.59 0.59
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl table_bistro1:pasted__usualFBXASC032benchFBXASC032BSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.59 0.59 0.59
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl table_bistro2:pasted__usualFBXASC032benchFBXASC032BSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.59 0.59 0.59
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl table_bistro3:pasted__usualFBXASC032benchFBXASC032BSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.59 0.59 0.59
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl table_bistro4:pasted__usualFBXASC032benchFBXASC032BSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.59 0.59 0.59
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl table_bistro5:pasted__usualFBXASC032benchFBXASC032BSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.59 0.59 0.59
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl table_bistro6:pasted__usualFBXASC032benchFBXASC032BSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.59 0.59 0.59
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl table_chair_Colonade:chairBodyShaderSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd chairBody-Seamless-Texture.jpg
+bump  -bm 0.2 chairBody-Seamless-bump.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl table_chair_Colonade:chairLegShaderSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd chairLeg-seamless-texture.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl table_chair_Colonade1:chairBodyShaderSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd chairBody-Seamless-Texture.jpg
+bump  -bm 0.2 chairBody-Seamless-bump.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl table_chair_Colonade1:chairLegShaderSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd chairLeg-seamless-texture.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl table_chair_Colonade2:chairBodyShaderSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd chairBody-Seamless-Texture.jpg
+bump  -bm 0.2 chairBody-Seamless-bump.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl table_chair_Colonade2:chairLegShaderSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd chairLeg-seamless-texture.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl table_chair_Colonade3:chairBodyShaderSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd chairBody-Seamless-Texture.jpg
+bump  -bm 0.2 chairBody-Seamless-bump.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl table_chair_Colonade3:chairLegShaderSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd chairLeg-seamless-texture.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl table_chair_Colonade4:chairBodyShaderSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd chairBody-Seamless-Texture.jpg
+bump  -bm 0.2 chairBody-Seamless-bump.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl table_chair_Colonade4:chairLegShaderSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd chairLeg-seamless-texture.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl table_chair_Colonade5:chairBodyShaderSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd chairBody-Seamless-Texture.jpg
+bump  -bm 0.2 chairBody-Seamless-bump.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl table_chair_Colonade5:chairLegShaderSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd chairLeg-seamless-texture.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl table_chair_Colonade6:chairBodyShaderSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd chairBody-Seamless-Texture.jpg
+bump  -bm 0.2 chairBody-Seamless-bump.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl table_chair_Colonade6:chairLegShaderSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd chairLeg-seamless-texture.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl table_chair_Colonade7:chairBodyShaderSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd chairBody-Seamless-Texture.jpg
+bump  -bm 0.2 chairBody-Seamless-bump.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl table_chair_Colonade7:chairLegShaderSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd chairLeg-seamless-texture.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl tables:chair:Chair_01SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl tables1:chair:Chair_01SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl tables2:chair:Chair_01SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl tables3:chair:Chair_01SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl tables4:chair:Chair_01SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl tables5:chair:Chair_01SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl tables6:chair:Chair_01SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl tables7:chair:Chair_01SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl tables8:chair:Chair_01SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl tables9:chair:Chair_01SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl tables10:chair:Chair_01SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl tables11:chair:Chair_01SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl tables12:chair:Chair_01SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl tables13:chair:Chair_01SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl tables14:chair:Chair_01SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl tables15:chair:Chair_01SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl tables16:chair:Chair_01SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl tables17:chair:Chair_01SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl tables18:chair:Chair_01SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl tables19:chair:Chair_01SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl tables20:chair:Chair_01SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl urinal:Object001SG
+illum 4
+Kd 0.59 0.59 0.59
+Ka 0.59 0.59 0.59
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
