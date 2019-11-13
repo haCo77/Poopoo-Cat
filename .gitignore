@@ -72,3 +72,4 @@ PoopooCat/Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 PoopooCat/DerivedDataCache/*
+/PoopooCat/WindowsNoEditor/PoopooCat/Content/Paks/PoopooCat-WindowsNoEditor.pak
